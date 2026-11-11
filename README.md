@@ -1,4 +1,4 @@
-iPhone Vault v1.0
+iPhone Vault v1.0 for Mac
 
 iPhone Vault is a free, offline Mac app for copying, transferring and backing up your iPhone data. I built it because I wanted these jobs to work the way I think they should: plug in the cable, tap Trust, and you’re in control. It needs no account, and nothing runs on a schedule.
 
